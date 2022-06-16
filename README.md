@@ -1,4 +1,4 @@
-# qiskit-networks
+# Qiskit Networks
 Note: Project in the works
 
 Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
