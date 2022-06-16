@@ -1,2 +1,6 @@
 # qiskit-networks
-Project in the works
+Note: Project in the works
+
+Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+
+Qiskit is made up of elements that work together to enable quantum computing. This element is Terra and is the foundation on which the rest of Qiskit is built.
