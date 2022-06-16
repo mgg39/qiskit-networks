@@ -21,3 +21,15 @@ Pip will handle all dependencies automatically and you will always install the l
 To install from source, follow the instructions in the [documentation](https://qiskit.org/documentation/contributing_to_qiskit.html#install-install-from-source-label).
 
 ## Creating Your First Quantum Program in Qiskit Networks
+
+.............. section in  the works ..................................
+
+## Contribution Guidelines
+
+We use [GitHub issues](https://github.com/mgg39/qiskit-networks/issues) for tracking requests and bugs. Please
+[join the Qiskit Slack community](https://ibm.co/joinqiskitslack)
+and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion and simple questions.
+For questions that are more suited for a forum we use the Qiskit tag in the [Stack Exchange](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit).
+
+
+
