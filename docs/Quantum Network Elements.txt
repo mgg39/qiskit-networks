@@ -1,0 +1,2 @@
+As a part of this project's creation, we are defining a list of existing Quantum Network components that could be implemented in a future Qiskit Networks protocol library.l
+Please see the list bellow.
