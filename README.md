@@ -8,18 +8,18 @@ Qiskit is made up of elements that work together to enable quantum computing. Th
 
 #### Statistics and Status
 
-[![github followers](https://img.shields.io/github/followers/qiskrypt?style=social)](https://github.com/qiskrypt)
-[![github forks](https://img.shields.io/github/forks/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/fork)
-[![gitHub repo stars](https://img.shields.io/github/stars/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/stargazers)
-[![gitHub watchers](https://img.shields.io/github/watchers/qiskrypt/qiskrypt?style=social)](https://github.com/qiskrypt/qiskrypt/watchers)
+[![github followers](https://img.shields.io/github/followers/qiskit-networks?style=social)](https://github.com/qiskit-networks)
+[![github forks](https://img.shields.io/github/forks/qiskit-networks/qiskit-networks?style=social)](https://github.com/qiskrypt/qiskit-networks/fork)
+[![gitHub repo stars](https://img.shields.io/github/stars/qiskit-networks/qiskit-networks?style=social)](https://github.com/qiskit-networks/qiskit-networks/stargazers)
+[![gitHub watchers](https://img.shields.io/github/watchers/qiskit-networks/qiskit-networks?style=social)](https://github.com/qiskrypt/qiskit-networks/watchers)
 
-[![github no. lines of code](https://tokei.rs/b1/github/qiskrypt/qiskrypt?category=code)](https://github.com/qiskrypt/qiskrypt/)
-[![github no. files](https://tokei.rs/b1/github/qiskrypt/qiskrypt?category=files)](https://github.com/qiskrypt/qiskrypt/)
+[![github no. lines of code](https://tokei.rs/b1/github/qiskit-networks/qiskit-networks?category=code)](https://github.com/qiskit-networks/qiskit-networks/)
+[![github no. files](https://tokei.rs/b1/github/qiskit-networks/qiskit-networks?category=files)](https://github.com/qiskit-networks/qiskit-networks/)
 
-[![github commit activity](https://img.shields.io/github/commit-activity/m/qiskrypt/qiskrypt?label=📈%20commit&nbsp;activity)](https://github.com/qiskrypt)
-[![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt?label=📅%20last&nbsp;commit)](https://github.com/qiskrypt)
-[![current release](https://img.shields.io/badge/release-v0.0.1-magenta.svg?label=🏁%20release)](https://github.com/qiskrypt/qiskrypt/)
-[![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&label=🌐%20website&url=https%3A%2F%2Fqiskrypt.github.io%2F)](https://qiskrypt.github.io/)
+[![github commit activity](https://img.shields.io/github/commit-activity/m/qiskit-networks/qiskit-networks?label=📈%20commit&nbsp;activity)](https://github.com/qiskit-networks)
+[![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt?label=📅%20last&nbsp;commit)](https://github.com/qiskit-networks)
+[![current release](https://img.shields.io/badge/release-v0.0.1-magenta.svg?label=🏁%20release)](https://github.com/qiskit-networks/qiskit-networks/)
+[![website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&label=🌐%20website&url=https%3A%2F%qiskit-networks.github.io%2F)](https://qiskit-networks.github.io/)
 
 ## Installation
 
