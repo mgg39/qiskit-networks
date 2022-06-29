@@ -6,7 +6,7 @@
 
 Qiskit is made up of elements that work together to enable quantum computing. This element is **Terra** and is the foundation on which the rest of Qiskit is built.
 
-#### Statistics and Status
+## Statistics and Status
 
 [![github followers](https://img.shields.io/github/followers/qiskit-networks?style=social)](https://github.com/qiskit-networks)
 [![github forks](https://img.shields.io/github/forks/qiskit-networks/qiskit-networks?style=social)](https://github.com/qiskrypt/qiskit-networks/fork)
