@@ -1,0 +1,1 @@
+#setting up optical fiber connection, adding condition
