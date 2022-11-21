@@ -33,7 +33,7 @@ class Node:
         """
         return self.name
 
-    def get_location(self) -> str:
+    def get_location(self) -> list:
 
         """
         Return the location address of the Node.
@@ -50,14 +50,14 @@ class Node:
 
         return self.location
 
-    def elements(self) -> str:
+    def elements(self) -> list:
 
         """
         Return the list of element within the Node.
         """
         return self.elements
 
-    def ports(self) -> str:
+    def ports(self) -> list:
 
         """
         Return ports within the Node.
