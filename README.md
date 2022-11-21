@@ -1,7 +1,7 @@
 # Qiskit Networks
 
 **Note: Project in the works**
-<<<<<<< HEAD
+
 
 **Qiskit** is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 
@@ -73,4 +73,3 @@ We use [GitHub issues](https://github.com/mgg39/qiskit-networks/issues) for trac
 [join the Qiskit Slack community](https://ibm.co/joinqiskitslack)
 and use our [Qiskit Slack channel](https://qiskit.slack.com) for discussion and simple questions.
 For questions that are more suited for a forum we use the Qiskit tag in the [Stack Exchange](https://quantumcomputing.stackexchange.com/questions/tagged/qiskit).
->>>>>>> 0db282c8081da629a88fbff820ba01dea0adaa68
