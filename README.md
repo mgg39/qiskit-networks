@@ -36,13 +36,6 @@ For questions that are more suited for a forum we use the Qiskit tag in the [Sta
 
 Qiskit is made up of elements that work together to enable quantum computing. This element is **Terra** and is the foundation on which the rest of Qiskit is built.
 
-## Statistics and Status
-
-[![github commit activity](https://img.shields.io/github/commit-activity/m/mgg39/qiskit-networks/qiskit-networks?label=📈%20commit&nbsp;activity)](https://github.com/mgg39/qiskit-networks)
-[![github last commit](https://img.shields.io/github/last-commit/qiskrypt/qiskrypt?label=📅%20last&nbsp;commit)](https://github.com/mgg39/qiskit-networks)
-[![current release](https://img.shields.io/badge/release-v0.0.1-magenta.svg?label=🏁%20release)](https://github.com/mgg39/qiskit-networks)
-
-
 ## Installation
 
 We encourage installing Qiskit via the pip tool (a python package manager). The following command installs the core Qiskit components, including Terra.
