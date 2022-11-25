@@ -1,7 +1,7 @@
 # Qiskit Networks
-.............. section in  the works ..................................
 
 **Note: Project in the works**
+Qiskit-networks is an open source package dedicated to creating and testing quantum network simulations for quantum developper. The project is currently in the works and is being built through open source contributors.
 
 **Qiskit** is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 
@@ -35,6 +35,7 @@ For questions that are more suited for a forum we use the Qiskit tag in the [Sta
 **Qiskit** is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
 
 Qiskit is made up of elements that work together to enable quantum computing. This element is **Terra** and is the foundation on which the rest of Qiskit is built.
+
 
 ## Installation
 
