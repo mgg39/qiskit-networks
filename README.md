@@ -38,7 +38,7 @@ Qiskit is made up of elements that work together to enable quantum computing. Th
 
 ## Statistics and Status
 
-[![github last modified]](/aur/last-modified/:qiskit-netowrks)
+[![github last modified](https://img.shields.io/aur/last-modified/https://github.com/mgg39/qiskit-networks)] 
 [![github forks](https://img.shields.io/github/forks/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
 [![gitHub repo stars](https://img.shields.io/github/stars/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
 [![gitHub watchers](https://img.shields.io/github/watchers/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
