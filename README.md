@@ -1,5 +1,6 @@
 # Qiskit Networks
 .............. section in  the works ..................................
+
 **Note: Project in the works**
 
 **Qiskit** is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
@@ -37,7 +38,7 @@ Qiskit is made up of elements that work together to enable quantum computing. Th
 
 ## Statistics and Status
 
-[![github followers](https://img.shields.io/github/followers/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
+[![github last modified](/aur/last-modified/:qiskit-netowrks)](https://github.com/mgg39/qiskit-networks)
 [![github forks](https://img.shields.io/github/forks/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
 [![gitHub repo stars](https://img.shields.io/github/stars/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
 [![gitHub watchers](https://img.shields.io/github/watchers/qiskit-networks/qiskit-networks?style=social)](https://github.com/mgg39/qiskit-networks)
