@@ -1,4 +1,5 @@
-# Qiskit Networks
+# Qiskit Networks - Currently Archived
+Project is Archived until further notice due to lack of time
 
 **Note: Project in the works**
 Qiskit-networks is an open source package dedicated to creating and testing quantum network simulations for quantum developper. The project is currently in the works and is being built through open source contributors.
