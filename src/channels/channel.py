@@ -43,4 +43,3 @@ class Channel:
         """
         Return the nature of the channel: Quantum/Classic.
         """
-        return self.get_nature

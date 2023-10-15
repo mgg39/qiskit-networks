@@ -62,4 +62,3 @@ class Node:
         """
         Return ports within the Node.
         """
-        return self.ports
